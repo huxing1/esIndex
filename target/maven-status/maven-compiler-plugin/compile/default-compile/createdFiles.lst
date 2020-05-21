@@ -1,0 +1,5 @@
+org\hyzs\utils\ElasticSearchUtils.class
+org\hyzs\elasticsearch\HaiDocument.class
+org\hyzs\config\ElasticSearchConnector.class
+org\hyzs\utils\MySQLUtil.class
+org\hyzs\App.class
